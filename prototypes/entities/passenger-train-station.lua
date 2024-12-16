@@ -2,7 +2,7 @@ data:extend{
     {
         type = "container",
         name = "tycoon-passenger-train-station",
-        icon = "__tycoon__/graphics/icons/passenger-train-station.png",
+        icon = "__tycoon2__/graphics/icons/passenger-train-station.png",
         icon_size = 64,
         max_health = 2000,
         inventory_size = 100,
@@ -22,7 +22,7 @@ data:extend{
         picture = {
             layers = {
                 {
-                    filename = "__tycoon__/graphics/entity/passenger-train-station/passenger-train-station.png",
+                    filename = "__tycoon2__/graphics/entity/passenger-train-station/passenger-train-station.png",
                     priority = "high",
                     width = 732,
                     height = 239,
@@ -34,7 +34,7 @@ data:extend{
         circuit_wire_max_distance = 9,
         working_sound = {
             sound = {
-                filename = "__tycoon__/sound/430983__be_a_hero_not_a_patriot__metro-warszawa-2017-centrum-station-ambience-ticket-inspectors-check-peoples-travelcards-with-beeping-poland.wav",
+                filename = "__tycoon2__/sound/430983__be_a_hero_not_a_patriot__metro-warszawa-2017-centrum-station-ambience-ticket-inspectors-check-peoples-travelcards-with-beeping-poland.wav",
             },
             probability = 1,
             fade_in_ticks = 10,

@@ -4,7 +4,7 @@ data:extend {
         name = "tycoon-university-v2",
         localised_name = { "entity-name.tycoon-university" },
         localised_description = { "entity-description.tycoon-university" },
-        icon = "__tycoon__/graphics/icons/university.png",
+        icon = "__tycoon2__/graphics/icons/university.png",
         icon_size = 64,
         max_health = 200,
         rotatable = false,
@@ -16,7 +16,7 @@ data:extend {
             animation = {
                 layers = {
                     {
-                        filename = "__tycoon__/graphics/entity/university/university.png",
+                        filename = "__tycoon2__/graphics/entity/university/university.png",
                         priority = "high",
                         width = 400,
                         height = 400,

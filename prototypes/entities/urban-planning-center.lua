@@ -2,7 +2,7 @@ data:extend{
     {
         type = "container",
         name = "tycoon-urban-planning-center",
-        icon = "__tycoon__/graphics/icons/urban-planning-center.png",
+        icon = "__tycoon2__/graphics/icons/urban-planning-center.png",
         icon_size = 64,
         max_health = 2000,
         inventory_size = 50,
@@ -22,7 +22,7 @@ data:extend{
         picture = {
             layers = {
                 {
-                    filename = "__tycoon__/graphics/entity/urban-planning-center/urban-planning-center.png",
+                    filename = "__tycoon2__/graphics/entity/urban-planning-center/urban-planning-center.png",
                     priority = "high",
                     width = 245,
                     height = 245,

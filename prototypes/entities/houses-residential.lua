@@ -2,7 +2,7 @@ local function createHouse(name)
   return {
     type = "container",
     name = "tycoon-" .. name,
-    icon = "__tycoon__/graphics/icons/house-residential.png",
+    icon = "__tycoon2__/graphics/icons/house-residential.png",
     icon_size = 64,
     max_health = 1000,
     rotatable = false,
@@ -21,7 +21,7 @@ local function createHouse(name)
     picture = {
         layers = {
             {
-                filename = "__tycoon__/graphics/entity/" .. name .. "/" .. name .. ".png",
+                filename = "__tycoon2__/graphics/entity/" .. name .. "/" .. name .. ".png",
                 priority = "high",
                 width = 125,
                 height = 160,
@@ -34,13 +34,13 @@ local function createHouse(name)
       sound = {
           variations = {
               {
-                  filename = "__tycoon__/sound/274349__iamazerrad__crowd-noise-1.wav",
+                  filename = "__tycoon2__/sound/274349__iamazerrad__crowd-noise-1.wav",
               },
               {
-                  filename = "__tycoon__/sound/440949__l_q__amsterdam-background.wav",
+                  filename = "__tycoon2__/sound/440949__l_q__amsterdam-background.wav",
               },
               {
-                  filename = "__tycoon__/sound/524629__nimlos__barcelona-street-ambience-small-cafeteria-outdoors.wav",
+                  filename = "__tycoon2__/sound/524629__nimlos__barcelona-street-ambience-small-cafeteria-outdoors.wav",
               },
           }
       },

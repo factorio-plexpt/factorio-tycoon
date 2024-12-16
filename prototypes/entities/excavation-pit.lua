@@ -2,7 +2,7 @@ local function createExcavationPit(name, spriteSize)
   return {
     type = "container",
     name = "tycoon-" .. name,
-    icon = "__tycoon__/graphics/icons/excavation-pit.png",
+    icon = "__tycoon2__/graphics/icons/excavation-pit.png",
     icon_size = 64,
     max_health = 200,
     rotatable = false,
@@ -18,7 +18,7 @@ local function createExcavationPit(name, spriteSize)
     picture = {
         layers = {
             {
-                filename = "__tycoon__/graphics/entity/" .. name .. "/" .. name .. ".png",
+                filename = "__tycoon2__/graphics/entity/" .. name .. "/" .. name .. ".png",
                 priority = "high",
                 width = spriteSize.width,
                 height = spriteSize.height,
@@ -31,13 +31,13 @@ local function createExcavationPit(name, spriteSize)
       sound = {
           variations = {
               {
-                  filename = "__tycoon__/sound/209798__soundscape_leuphana__20131204_construction-site_zoomh2nxy.wav",
+                  filename = "__tycoon2__/sound/209798__soundscape_leuphana__20131204_construction-site_zoomh2nxy.wav",
               },
               {
-                  filename = "__tycoon__/sound/209801__soundscape_leuphana__20131204_construction-work_zoomh2nxy.wav",
+                  filename = "__tycoon2__/sound/209801__soundscape_leuphana__20131204_construction-work_zoomh2nxy.wav",
               },
               {
-                  filename = "__tycoon__/sound/479554__craigsmith__r16-22-construction-site-ambience.wav",
+                  filename = "__tycoon2__/sound/479554__craigsmith__r16-22-construction-site-ambience.wav",
               },
           }
       },

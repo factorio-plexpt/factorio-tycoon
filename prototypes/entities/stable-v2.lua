@@ -4,7 +4,7 @@ data:extend {
         name = "tycoon-stable-v2",
         localised_name = { "entity-name.tycoon-stable" },
         localised_description = { "entity-description.tycoon-stable" },
-        icon = "__tycoon__/graphics/icons/stable.png",
+        icon = "__tycoon2__/graphics/icons/stable.png",
         icon_size = 64,
         max_health = 200,
         flags = { "placeable-player", "player-creation" },
@@ -37,7 +37,7 @@ data:extend {
             animation = {
                 layers = {
                     {
-                        filename = "__tycoon__/graphics/entity/stable/stable.png",
+                        filename = "__tycoon2__/graphics/entity/stable/stable.png",
                         priority = "high",
                         width = 500,
                         height = 500,

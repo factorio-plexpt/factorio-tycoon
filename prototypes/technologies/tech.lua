@@ -3,7 +3,7 @@ data:extend{
         type = "technology",
         name = "tycoon-university-science-red",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/university-science-red.png",
+        icon = "__tycoon2__/graphics/technology/university-science-red.png",
         icon_size = 256,
         effects = {
             {
@@ -28,7 +28,7 @@ data:extend{
         type = "technology",
         name = "tycoon-farming",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/farming.png",
+        icon = "__tycoon2__/graphics/technology/farming.png",
         icon_size = 256,
         effects = {
             {
@@ -48,7 +48,7 @@ data:extend{
         type = "technology",
         name = "tycoon-husbandry",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/husbandry.png",
+        icon = "__tycoon2__/graphics/technology/husbandry.png",
         icon_size = 256,
         effects = {
             {
@@ -77,7 +77,7 @@ data:extend{
         type = "technology",
         name = "tycoon-university-science-green",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/university-science-green.png",
+        icon = "__tycoon2__/graphics/technology/university-science-green.png",
         icon_size = 256,
         effects = {
             {
@@ -99,7 +99,7 @@ data:extend{
         type = "technology",
         name = "tycoon-milking",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/milking.png",
+        icon = "__tycoon2__/graphics/technology/milking.png",
         icon_size = 256,
         effects = {
             {
@@ -121,7 +121,7 @@ data:extend{
         type = "technology",
         name = "tycoon-baking",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/baking.png",
+        icon = "__tycoon2__/graphics/technology/baking.png",
         icon_size = 256,
         effects = {
             {
@@ -151,7 +151,7 @@ data:extend{
         type = "technology",
         name = "tycoon-bottling",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/bottling.png",
+        icon = "__tycoon2__/graphics/technology/bottling.png",
         icon_size = 256,
         effects = {
             {
@@ -181,7 +181,7 @@ data:extend{
         type = "technology",
         name = "tycoon-meat-processing",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/meat-grinder.png",
+        icon = "__tycoon2__/graphics/technology/meat-grinder.png",
         icon_size = 256,
         effects = {
             {
@@ -215,7 +215,7 @@ data:extend{
         type = "technology",
         name = "tycoon-residential-housing",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/residential-housing.png",
+        icon = "__tycoon2__/graphics/technology/residential-housing.png",
         icon_size = 256,
         prerequisites = { "steel-processing", "tycoon-meat-processing", "tycoon-baking", "tycoon-milking", "tycoon-bottling" },
         unit = {
@@ -231,7 +231,7 @@ data:extend{
         type = "technology",
         name = "tycoon-university-science-blue",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/university-science-blue.png",
+        icon = "__tycoon2__/graphics/technology/university-science-blue.png",
         icon_size = 256,
         effects = {
             {
@@ -254,7 +254,7 @@ data:extend{
         type = "technology",
         name = "tycoon-university-science-black",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/university-science-black.png",
+        icon = "__tycoon2__/graphics/technology/university-science-black.png",
         icon_size = 256,
         effects = {
             {
@@ -277,7 +277,7 @@ data:extend{
         type = "technology",
         name = "tycoon-egg-production",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/egg-production.png",
+        icon = "__tycoon2__/graphics/technology/egg-production.png",
         icon_size = 256,
         effects = {
             {
@@ -299,7 +299,7 @@ data:extend{
         type = "technology",
         name = "tycoon-drinks",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/drinks.png",
+        icon = "__tycoon2__/graphics/technology/drinks.png",
         icon_size = 256,
         effects = {
             {
@@ -322,7 +322,7 @@ data:extend{
         type = "technology",
         name = "tycoon-desserts",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/cookies.png",
+        icon = "__tycoon2__/graphics/technology/cookies.png",
         icon_size = 256,
         effects = {
             {
@@ -345,7 +345,7 @@ data:extend{
         type = "technology",
         name = "tycoon-dairy-products",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/dairy.png",
+        icon = "__tycoon2__/graphics/technology/dairy.png",
         icon_size = 256,
         effects = {
             {
@@ -371,7 +371,7 @@ data:extend{
         type = "technology",
         name = "tycoon-main-dish",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/restaurant-menu.png",
+        icon = "__tycoon2__/graphics/technology/restaurant-menu.png",
         icon_size = 256,
         effects = {
             {
@@ -402,7 +402,7 @@ data:extend{
         type = "technology",
         name = "tycoon-highrise-housing",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/highrise-housing.png",
+        icon = "__tycoon2__/graphics/technology/highrise-housing.png",
         icon_size = 256,
         prerequisites = { "fluid-handling", "concrete", "tycoon-residential-housing", "tycoon-desserts", "tycoon-main-dish", "tycoon-dairy-products", "tycoon-drinks" },
         unit = {
@@ -419,7 +419,7 @@ data:extend{
         type = "technology",
         name = "tycoon-university-science-purple",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/university-science-purple.png",
+        icon = "__tycoon2__/graphics/technology/university-science-purple.png",
         icon_size = 256,
         effects = {
             {
@@ -443,7 +443,7 @@ data:extend{
         type = "technology",
         name = "tycoon-university-science-yellow",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/university-science-yellow.png",
+        icon = "__tycoon2__/graphics/technology/university-science-yellow.png",
         icon_size = 256,
         effects = {
             {
@@ -467,7 +467,7 @@ data:extend{
         type = "technology",
         name = "tycoon-public-transportation",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/public-transportation.png",
+        icon = "__tycoon2__/graphics/technology/public-transportation.png",
         icon_size = 256,
         effects = {
             {
@@ -490,7 +490,7 @@ data:extend{
         type = "technology",
         name = "tycoon-apple-farm-productivity",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/icons/apple-farm.png",
+        icon = "__tycoon2__/graphics/icons/apple-farm.png",
         icon_size = 256,
         effects = {
             {
@@ -513,7 +513,7 @@ data:extend{
         type = "technology",
         name = "tycoon-wheat-farm-productivity",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/icons/wheat-farm.png",
+        icon = "__tycoon2__/graphics/icons/wheat-farm.png",
         icon_size = 256,
         effects = {
             {
@@ -537,7 +537,7 @@ data:extend{
         type = "technology",
         name = "tycoon-fishery-productivity",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/icons/fishery.png",
+        icon = "__tycoon2__/graphics/icons/fishery.png",
         icon_size = 256,
         effects = {
             {
@@ -562,7 +562,7 @@ data:extend{
         type = "technology",
         name = "tycoon-personal-transportation",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/icons/bicycle.png",
+        icon = "__tycoon2__/graphics/icons/bicycle.png",
         icon_size = 256,
         effects = {
             {
@@ -593,7 +593,7 @@ data:extend{
         type = "technology",
         name = "tycoon-candles",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/icons/candle.png",
+        icon = "__tycoon2__/graphics/icons/candle.png",
         icon_size = 256,
         effects = {
             {
@@ -616,7 +616,7 @@ data:extend{
         type = "technology",
         name = "tycoon-kitchen-utilities",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/icons/cutlery.png",
+        icon = "__tycoon2__/graphics/icons/cutlery.png",
         icon_size = 256,
         effects = {
             {
@@ -645,7 +645,7 @@ data:extend{
         type = "technology",
         name = "tycoon-electronic-devices",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/icons/television.png",
+        icon = "__tycoon2__/graphics/icons/television.png",
         icon_size = 256,
         effects = {
             {
@@ -667,7 +667,7 @@ data:extend{
         type = "technology",
         name = "tycoon-computers",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/icons/laptop.png",
+        icon = "__tycoon2__/graphics/icons/laptop.png",
         icon_size = 256,
         effects = {
             {
@@ -698,7 +698,7 @@ data:extend{
         type = "technology",
         name = "tycoon-hygiene",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/icons/soap.png",
+        icon = "__tycoon2__/graphics/icons/soap.png",
         icon_size = 256,
         effects = {
             {
@@ -729,7 +729,7 @@ data:extend{
         type = "technology",
         name = "tycoon-money-laundering",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/money-tech.png",
+        icon = "__tycoon2__/graphics/technology/money-tech.png",
         icon_size = 256,
         effects = {
             {
@@ -752,7 +752,7 @@ data:extend{
         type = "technology",
         name = "tycoon-advanced-treasury-payouts",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/advanced-treasury-payouts.png",
+        icon = "__tycoon2__/graphics/technology/advanced-treasury-payouts.png",
         icon_size = 190,
         effects = {
             {
@@ -775,7 +775,7 @@ data:extend{
         type = "technology",
         name = "tycoon-citizen-science",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/entity/citizen-science-lab/citizen-science-lab.png",
+        icon = "__tycoon2__/graphics/entity/citizen-science-lab/citizen-science-lab.png",
         icon_size = 256,
         effects = {
             {
@@ -802,7 +802,7 @@ data:extend{
         type = "technology",
         name = "tycoon-new-cities",
         mod = "Tycoon",
-        icon = "__tycoon__/graphics/technology/multiple-cities.png",
+        icon = "__tycoon2__/graphics/technology/multiple-cities.png",
         icon_size = 256,
         effects = {
             {

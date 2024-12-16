@@ -4,7 +4,7 @@ data:extend({
         name = "tycoon",
         order = "z",
         inventory_order = "z",
-        icon = "__tycoon__/graphics/icons/tycoon-buildings.png",
+        icon = "__tycoon2__/graphics/icons/tycoon-buildings.png",
         icon_size = 256,
     },
     {
