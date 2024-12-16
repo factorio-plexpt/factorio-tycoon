@@ -2,7 +2,7 @@ data:extend{
     {
       type = "storage-tank",
       name = "tycoon-water-tower",
-      icon = "__tycoon__/graphics/icons/water-tower.png",
+      icon = "__tycoon2__/graphics/icons/water-tower.png",
       icon_size = 64,
       max_health = 200,
       flags = { "placeable-player", "player-creation"},
@@ -28,7 +28,7 @@ data:extend{
         picture = {
           layers = {
             {
-              filename = "__tycoon__/graphics/entity/water-tower/water-tower.png",
+              filename = "__tycoon2__/graphics/entity/water-tower/water-tower.png",
               priority = "high",
               width = 500,
               height = 500,

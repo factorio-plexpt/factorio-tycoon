@@ -2,7 +2,7 @@ data:extend {
     {
         type = "assembling-machine",
         name = "tycoon-wheat-farm",
-        icon = "__tycoon__/graphics/icons/wheat-farm.png",
+        icon = "__tycoon2__/graphics/icons/wheat-farm.png",
         icon_size = 256,
         max_health = 200,
         rotatable = false,
@@ -31,7 +31,7 @@ data:extend {
             animation = {
                 layers = {
                     {
-                        filename = "__tycoon__/graphics/entity/wheat-farm/wheat-farm.png",
+                        filename = "__tycoon2__/graphics/entity/wheat-farm/wheat-farm.png",
                         priority = "high",
                         width = 500,
                         height = 500,

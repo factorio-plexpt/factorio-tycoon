@@ -2,7 +2,7 @@ local function createGarden(i)
   return {
     type = "container",
     name = "tycoon-garden-" .. i,
-    icon = "__tycoon__/graphics/icons/garden.png",
+    icon = "__tycoon2__/graphics/icons/garden.png",
     icon_size = 64,
     max_health = 250,
     rotatable = false,
@@ -21,7 +21,7 @@ local function createGarden(i)
     picture = {
         layers = {
             {
-                filename = "__tycoon__/graphics/entity/gardens/" .. i .. ".png",
+                filename = "__tycoon2__/graphics/entity/gardens/" .. i .. ".png",
                 priority = "high",
                 width = 200,
                 height = 200,

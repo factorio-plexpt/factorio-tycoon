@@ -2,7 +2,7 @@ data:extend{
   {
     type = "item",
     name = "tycoon-town-hall",
-    icon = "__tycoon__/graphics/icons/town-hall.png",
+    icon = "__tycoon2__/graphics/icons/town-hall.png",
     icon_size = 64,
     subgroup = "tycoon-buildings",
     order = "a[tycoon]-z[town-hall]",

@@ -75,7 +75,7 @@ data:extend {
         order = "a[tycoon]-g[used-bottle]-a",
         energy_required = 15,
         enabled = false,
-        icon = "__tycoon__/graphics/icons/used-bottle.png",
+        icon = "__tycoon2__/graphics/icons/used-bottle.png",
         icon_size = 64,
         ingredients = {
             { type = "item", name = "tycoon-used-bottle", amount = 25 },
@@ -94,7 +94,7 @@ data:extend {
         order = "a[tycoon]-g[used-bottle]-b",
         energy_required = 5,
         enabled = false,
-        icon = "__tycoon__/graphics/icons/used-bottle.png",
+        icon = "__tycoon2__/graphics/icons/used-bottle.png",
         icon_size = 64,
         ingredients = {
             { type = "item", name = "tycoon-used-bottle", amount = 25 },

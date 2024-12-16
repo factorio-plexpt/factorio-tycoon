@@ -2,7 +2,7 @@ data:extend{
   {
     type = "item",
     name = "tycoon-university",
-    icon = "__tycoon__/graphics/icons/university.png",
+    icon = "__tycoon2__/graphics/icons/university.png",
     icon_size = 64,
     subgroup = "tycoon-buildings",
     order = "a[tycoon]-d[university]",

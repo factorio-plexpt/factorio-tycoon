@@ -7,13 +7,13 @@ local function GenerateHiddenLight(size)
     hiddenLight.selection_box = nil --makes a nice cross on the powered area rather than a default sized box
     hiddenLight.selectable_in_game = false
     hiddenLight.picture_off = {
-        filename = "__tycoon__/graphics/entity/hidden-light/transparent.png",
+        filename = "__tycoon2__/graphics/entity/hidden-light/transparent.png",
         priority = "very-low",
         width = 1,
         height = 1
     }
     hiddenLight.picture_on = {
-        filename = "__tycoon__/graphics/entity/hidden-light/transparent.png",
+        filename = "__tycoon2__/graphics/entity/hidden-light/transparent.png",
         priority = "very-low",
         width = 1,
         height = 1

@@ -93,7 +93,7 @@ data:extend{
     {
       type = "item",
       name = "tycoon-urban-planning-center",
-      icon = "__tycoon__/graphics/icons/cow.png",
+      icon = "__tycoon2__/graphics/icons/cow.png",
       icon_size = 64,
       subgroup = "tycoon-buildings",
       order = "a[tycoon]-h[urban-planning-center]",

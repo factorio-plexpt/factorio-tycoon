@@ -3,7 +3,7 @@ data:extend{
         type = "recipe",
         name = "tycoon-money-stack",
         category = "crafting",
-        icon = "__tycoon__/graphics/icons/money-stack.png",
+        icon = "__tycoon2__/graphics/icons/money-stack.png",
         icon_size = 64,
         energy_required = 5,
         subgroup = "tycoon-additional-intermediates",

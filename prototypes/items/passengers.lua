@@ -5,7 +5,7 @@ for i, v in ipairs(DataConstants.CityNames) do
     {
       type = "item-with-tags",
       name = "tycoon-passenger-" .. string.lower(v),
-      icon = "__tycoon__/graphics/icons/passengers/" .. i .. ".png",
+      icon = "__tycoon2__/graphics/icons/passengers/" .. i .. ".png",
       icon_size = 64,
       subgroup = "tycoon-passengers",
       order = "a[tycoon]-a[passenger]-a[" .. i .. "]",

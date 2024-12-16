@@ -2,7 +2,7 @@ data:extend{
   {
     type = "item",
     name = "tycoon-meat",
-    icon = "__tycoon__/graphics/icons/meat.png",
+    icon = "__tycoon2__/graphics/icons/meat.png",
     icon_size = 64,
     subgroup = "tycoon-basic-needs",
     order = "a[tycoon]-c[meat]",

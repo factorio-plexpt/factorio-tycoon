@@ -2,7 +2,7 @@ data:extend {
     {
         type = "assembling-machine",
         name = "tycoon-butchery",
-        icon = "__tycoon__/graphics/icons/butchery.png",
+        icon = "__tycoon2__/graphics/icons/butchery.png",
         icon_size = 64,
         max_health = 200,
         collision_box = { { -8.4, -2.4 }, { 8.4, 2.4 } },
@@ -14,7 +14,7 @@ data:extend {
             animation = {
                 layers = {
                     {
-                        filename = "__tycoon__/graphics/entity/butchery/butchery.png",
+                        filename = "__tycoon2__/graphics/entity/butchery/butchery.png",
                         priority = "high",
                         width = 707,
                         height = 353,

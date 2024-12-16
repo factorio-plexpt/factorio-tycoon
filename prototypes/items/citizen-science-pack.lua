@@ -2,7 +2,7 @@ data:extend{
     {
       type = "tool",
       name = "tycoon-citizen-science-pack",
-      icon = "__tycoon__/graphics/icons/citizen-science-pack.png",
+      icon = "__tycoon2__/graphics/icons/citizen-science-pack.png",
       icon_size = 64,
       durability = 100,
       subgroup = "science-pack",
